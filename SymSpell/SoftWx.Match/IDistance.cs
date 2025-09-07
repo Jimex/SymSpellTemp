@@ -1,8 +1,4 @@
-﻿// Copyright ©2015-2018 SoftWx, Inc.
-// Released under the MIT License the text of which appears at the end of this file.
-// <authors> Steve Hatchett
-
-namespace SoftWx.Match {
+﻿namespace SoftWx.Match {
     /// <summary>Types implementing the IDistance interface provide methods
     /// for computing a relative distance between two strings.</summary>
     public interface IDistance {

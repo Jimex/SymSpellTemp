@@ -1,8 +1,4 @@
-﻿// Copyright ©2015-2018 SoftWx, Inc.
-// Released under the MIT License the text of which appears at the end of this file.
-// <authors> Steve Hatchett
-
-using System;
+﻿using System;
 using System.Runtime.CompilerServices;
 
 namespace SoftWx.Match {
